@@ -16,19 +16,26 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 
+
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+I designed this Onam webpage using HTML, CSS and Javascript with vibrant colors and smooth animations. It displayed a festive Pookalam design, falling flowers effect, and responsive layout for a creative touch.
 
 
 
 ### Technologies Used 
+HTML, CSS and JS
 
 
 ### Video explaining How you build the pookalam
+[video1](https://drive.google.com/file/d/1Rb17d0TIwALVibi5m_JrhhmkRdCtJnwD/view?usp=drive_link)
 
 
 
 ### Screenshots
+[snap1](https://drive.google.com/file/d/10s7mqIXH3GE5hxqB1oYhYOSS7Ky7U-uS/view?usp=drive_link)
+[snap2](https://drive.google.com/file/d/1VJEeS4y22ALXSqh2mC25UZx4r3_qjX8x/view?usp=drive_link)
+[snap3](https://drive.google.com/file/d/1HYIHixHpLpAnyVbzbZBxwwv3HRQ8Z_xC/view?usp=drive_link)
+[snap4](https://drive.google.com/file/d/1m8owwjgIZSFH3ulohcczWuiwZ99fbHWk/view?usp=drive_link)
 
 
 
