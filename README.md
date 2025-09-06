@@ -5,11 +5,14 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- [Archana G Unni] - [CS1] - [S1]
 
 
+### GitHub Repository Link
+[Click here to view the repository](https://github.com/archanagunni2006-code/Codeapookalam1.git)
 
 ### Hosted Pookalam Link
+[Click here to view Pookalam Webpage](https://code-a-pookalam-archanagunni-cs1.netlify.app/)
 
 
 
